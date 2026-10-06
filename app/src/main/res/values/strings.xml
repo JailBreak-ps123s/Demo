@@ -1,0 +1,4 @@
+<resources>
+ <string name="app_name">全局跳转拦截器 V3</string>
+ <string name="accessibility_description">检测前台应用切换，并根据拦截模式、黑白名单显示确认层。</string>
+</resources>
